@@ -1,0 +1,5 @@
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/bin/Release/net8.0/osx-arm64/publish/WebsocketClient
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/bin/Release/net8.0/osx-arm64/publish/WebsocketClient.dll
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/bin/Release/net8.0/osx-arm64/publish/WebsocketClient.deps.json
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/bin/Release/net8.0/osx-arm64/publish/WebsocketClient.runtimeconfig.json
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/bin/Release/net8.0/osx-arm64/publish/WebsocketClient.pdb

@@ -1,0 +1,14 @@
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/bin/Debug/net8.0/WebsocketClient
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/bin/Debug/net8.0/WebsocketClient.deps.json
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/bin/Debug/net8.0/WebsocketClient.runtimeconfig.json
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/bin/Debug/net8.0/WebsocketClient.dll
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/bin/Debug/net8.0/WebsocketClient.pdb
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/obj/Debug/net8.0/WebsocketClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/obj/Debug/net8.0/WebsocketClient.AssemblyInfoInputs.cache
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/obj/Debug/net8.0/WebsocketClient.AssemblyInfo.cs
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/obj/Debug/net8.0/WebsocketClient.csproj.CoreCompileInputs.cache
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/obj/Debug/net8.0/WebsocketClient.dll
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/obj/Debug/net8.0/refint/WebsocketClient.dll
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/obj/Debug/net8.0/WebsocketClient.pdb
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/obj/Debug/net8.0/WebsocketClient.genruntimeconfig.cache
+/Users/mockingjay/c#/WebsocketPipeLineFilter/WebsocketClient/obj/Debug/net8.0/ref/WebsocketClient.dll
